@@ -59,6 +59,7 @@ public class MainActivity extends Activity {
 	protected void onResume() {
 		// TODO Auto-generated method stub
 		super.onResume();
+//TEst
 	}
 
 	public class connectTask extends AsyncTask<String, String, TCPClient> {
